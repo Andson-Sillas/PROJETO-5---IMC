@@ -1,0 +1,52 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+
+
+
+form{
+    background-color:yellow;
+    width:350px;
+    height:500px;
+    margin:90px 0 0 480px;
+    border:1px solid black;
+}
+
+p{
+   background-color: black;
+   width:298px;
+   height:7px; 
+   margin-top:5px;
+}
+
+legend{
+    text-align: center;
+    font-size:40px;
+}
+
+div{
+    margin:30px 0 0 30px;
+}
+
+input{
+    margin-left:10px;
+}
+
+/*input do peso*/
+#peso{
+    margin-left:20px;
+}
+
+#botao-calculo{
+    margin:3px 0 0 70px;
+    font-size:20px;
+}
+
+span{
+    margin-top:10px;
+}
+
+
